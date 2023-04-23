@@ -12,6 +12,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Prompt", sans-serif;
+  scroll-behavior: smooth;
 }
 .container {
   width: 100%;
@@ -68,6 +69,7 @@
   width: 100%;
   height: 100%;
   margin-bottom: 8rem;
+  scroll-margin-top: 2rem;
 }
 
 .img-container {
@@ -107,6 +109,7 @@
   width: 100%;
   height: auto;
   margin-bottom: 8rem;
+  scroll-margin-top: 3rem;
 }
 
 .section-title {
@@ -170,6 +173,7 @@
   width: 100%;
   height: auto;
   margin-bottom: 8rem;
+  scroll-margin-top: 3rem;
 }
 
 .section-header {
@@ -294,6 +298,7 @@
   background-color: #f9f9f9;
   padding: 2rem 1rem;
   border-radius: 5px;
+  scroll-margin-top: 3rem;
 }
 
 .review-card-container {
